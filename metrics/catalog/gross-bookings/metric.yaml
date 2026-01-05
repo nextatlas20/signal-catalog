@@ -1,0 +1,5 @@
+name: gross-bookings
+tier: gold
+refresh: weekly
+description: Total confirmed booking value per ISO week, before refunds.
+owner: revenue-analytics

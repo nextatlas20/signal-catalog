@@ -1,0 +1,5 @@
+name: example-metric
+tier: silver
+refresh: daily
+description: One sentence that explains what the metric counts.
+owner: analytics-platform
