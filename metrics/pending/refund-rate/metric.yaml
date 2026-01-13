@@ -1,0 +1,5 @@
+name: refund-rate
+tier: bronze
+refresh: daily
+description: Refunded amount as a share of gross payment volume per day.
+owner: payments-analytics
