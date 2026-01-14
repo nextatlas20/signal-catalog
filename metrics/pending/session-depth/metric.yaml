@@ -1,0 +1,5 @@
+name: session-depth
+tier: silver
+refresh: daily
+description: Average session length in seconds per UTC day.
+owner: product-analytics
