@@ -1,0 +1,5 @@
+name: revenue-lag
+tier: gold
+refresh: monthly
+description: Average days between booking and revenue recognition per month.
+owner: revenue-analytics
