@@ -1,0 +1,5 @@
+name: churn-cohort
+tier: silver
+refresh: weekly
+description: Retained accounts per signup cohort week.
+owner: lifecycle-analytics

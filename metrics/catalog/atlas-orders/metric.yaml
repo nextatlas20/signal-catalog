@@ -1,0 +1,5 @@
+name: atlas-orders
+tier: gold
+refresh: daily
+description: Orders accepted by the Atlas checkout service per UTC day.
+owner: commerce-analytics
